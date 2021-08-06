@@ -1,4 +1,4 @@
-# Sprint Challenge: Advanced React - React Plants 🌿
+-# Sprint Challenge: Advanced React - React Plants 🌿
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
@@ -14,7 +14,7 @@ _Sprint challenges open at Midnight PST on Thursday and close at 5pm PST on Frid
 
 ## Introduction
 
-In this project, you will add class components to your a basic ecommerce site that allow you to request product data from a server and render that data. You will also implement the ablitity to add products to a shopping cart.
+In this project, you will add class components to your a basic e-commerce site that allow you to request product data from a server and render that data. You will also implement the ability to add products to a shopping cart.
 
 In meeting the minimum viable product (MVP) specifications listed below, your project should look like the solution examples below:
 
@@ -27,10 +27,10 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 ## Instructions
 
 ### Task 1: Transfer Repo
-* Clone this repository.
+* [X] Clone this repository.
 * Implement the project on your newly created <firstName-lastName> branch, committing changes regularly.
 * Push commits: git push origin <firstName-lastName>.
-* RUN npm install to install your dependencies.
+* [X] RUN npm install to install your dependencies.
 * RUN npm start to start your application.
  
 ### Task 3: Project Requirements
